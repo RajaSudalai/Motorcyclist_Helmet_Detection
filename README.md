@@ -63,13 +63,11 @@
 
 ![Motorcyclist without Helmet detection using Mask R-CNN](demo/helmet_detection_mask.png)
 
-![Motorcyclist without Helmet detection using Mask R-CNN](demo/motorcyclist_helmet_use.mp4)
+![Motorcyclist without Helmet detection using Mask R-CNN](https://github.com/RajaSudalai/Motorcyclist_Helmet_Detection/blob/master/demo/motorcyclist_helmet_use.mp4)
 
 <div align="center">
-    <img src="demo/motorcyclist_helmet_use.mp4", width="800">
+    <img src="demo/motorcyclist_helmet_use.gif", width="800">
 </div>
-
-
 
 
 - 
